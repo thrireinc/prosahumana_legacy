@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 5f5b6c8767dc3ef49a14061f87e04195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1048735693423099882
+    second: _sprt_InimigoEstatuaAtlas_0
+  - first:
+      213: 7113029618430890828
+    second: _sprt_InimigoEstatuaAtlas_1
+  - first:
+      213: 7540121752353191624
+    second: _sprt_InimigoEstatuaAtlas_2
+  - first:
+      213: 7130123205596278486
+    second: _sprt_InimigoEstatuaAtlas_3
+  - first:
+      213: 4044950633740845811
+    second: _sprt_InimigoEstatuaAtlas_4
+  - first:
+      213: 5669927551575360312
+    second: _sprt_InimigoEstatuaAtlas_5
+  - first:
+      213: 3698138333201607252
+    second: _sprt_InimigoEstatuaAtlas_6
+  - first:
+      213: -5364091997809245288
+    second: _sprt_InimigoEstatuaAtlas_7
+  - first:
+      213: -9202707966487153456
+    second: _sprt_InimigoEstatuaAtlas_8
+  - first:
+      213: -1223537665945913865
+    second: _sprt_InimigoEstatuaAtlas_9
+  - first:
+      213: -1524801858859317324
+    second: _sprt_InimigoEstatuaAtlas_10
+  - first:
+      213: 7891800667768104921
+    second: _sprt_InimigoEstatuaAtlas_11
+  - first:
+      213: -8493087472433489472
+    second: _sprt_InimigoEstatuaAtlas_12
+  - first:
+      213: -3822061088907921024
+    second: _sprt_InimigoEstatuaAtlas_13
+  - first:
+      213: 6327681929858783096
+    second: _sprt_InimigoEstatuaAtlas_14
+  - first:
+      213: -9204484128386060638
+    second: _sprt_InimigoEstatuaAtlas_15
+  - first:
+      213: -6569987732372472611
+    second: _sprt_InimigoEstatuaAtlas_16
+  - first:
+      213: -3906301480197859747
+    second: _sprt_InimigoEstatuaAtlas_17
+  - first:
+      213: -8947454260549294650
+    second: _sprt_InimigoEstatuaAtlas_18
+  - first:
+      213: 8977377505677173212
+    second: _sprt_InimigoEstatuaAtlas_19
+  - first:
+      213: -1854903711507063064
+    second: _sprt_InimigoEstatuaAtlas_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4136
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb1c58e8bdd8e00800000000000000
+      internalID: 1048735693423099882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4136
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d76360ce86b260800000000000000
+      internalID: 7113029618430890828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4136
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63534d8c4e3a860800000000000000
+      internalID: 7540121752353191624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4136
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee55a474943f260800000000000000
+      internalID: 7130123205596278486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4136
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f24d1a9b2d822830800000000000000
+      internalID: 4044950633740845811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3112
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83389dd4111afae40800000000000000
+      internalID: 5669927551575360312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3112
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aacb0783d625330800000000000000
+      internalID: 3698138333201607252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3112
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89380188fbaee85b0800000000000000
+      internalID: -5364091997809245288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3112
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d430edccd9694080800000000000000
+      internalID: -9202707966487153456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3112
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5bbf3b9fe150fe0800000000000000
+      internalID: -1223537665945913865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c5d1c9c0d6dae0800000000000000
+      internalID: -1524801858859317324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2088
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7228015ee458d60800000000000000
+      internalID: 7891800667768104921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2088
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9184f21fd722a80800000000000000
+      internalID: -8493087472433489472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2088
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089fcc590bf45fac0800000000000000
+      internalID: -3822061088907921024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2088
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87714e0903170d750800000000000000
+      internalID: 6327681929858783096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee3d2e37a134080800000000000000
+      internalID: -9204484128386060638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1064
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb34977f6b2d4a0800000000000000
+      internalID: -6569987732372472611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1064
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56593f00870ac9c0800000000000000
+      internalID: -3906301480197859747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1064
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c567e371c144d380800000000000000
+      internalID: -8947454260549294650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1064
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16878f64d069c70800000000000000
+      internalID: 8977377505677173212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_InimigoEstatuaAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee511fe6ee0246e0800000000000000
+      internalID: -1854903711507063064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

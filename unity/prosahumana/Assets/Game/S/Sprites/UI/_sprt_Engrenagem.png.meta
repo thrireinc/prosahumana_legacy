@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: aaed9b150df2dd74cbaa82df801f5652
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8666350767504646679
+    second: _sprt_Engrenagem_0
+  - first:
+      213: -7268284075263869795
+    second: _sprt_Engrenagem_1
+  - first:
+      213: 2160940784164097609
+    second: _sprt_Engrenagem_2
+  - first:
+      213: 6264168653703229855
+    second: _sprt_Engrenagem_3
+  - first:
+      213: 8164984631300653277
+    second: _sprt_Engrenagem_4
+  - first:
+      213: 3752605443467691785
+    second: _sprt_Engrenagem_5
+  - first:
+      213: -3791861585379928873
+    second: _sprt_Engrenagem_6
+  - first:
+      213: -4669854904718254679
+    second: _sprt_Engrenagem_7
+  - first:
+      213: -8458645309027212066
+    second: _sprt_Engrenagem_8
+  - first:
+      213: -8777779057572697032
+    second: _sprt_Engrenagem_9
+  - first:
+      213: -8604163862039826577
+    second: _sprt_Engrenagem_10
+  - first:
+      213: 6392534202738163371
+    second: _sprt_Engrenagem_11
+  - first:
+      213: 3734934276657493607
+    second: _sprt_Engrenagem_12
+  - first:
+      213: -1764684881462987889
+    second: _sprt_Engrenagem_13
+  - first:
+      213: -2666826696995653578
+    second: _sprt_Engrenagem_14
+  - first:
+      213: -5289557468043637969
+    second: _sprt_Engrenagem_15
+  - first:
+      213: 6747208978949457410
+    second: _sprt_Engrenagem_16
+  - first:
+      213: 6345802037615089251
+    second: _sprt_Engrenagem_17
+  - first:
+      213: 4371950673587681124
+    second: _sprt_Engrenagem_18
+  - first:
+      213: 4248742167344189922
+    second: _sprt_Engrenagem_19
+  - first:
+      213: -5458626736357568060
+    second: _sprt_Engrenagem_20
+  - first:
+      213: 3165520747693432542
+    second: _sprt_Engrenagem_21
+  - first:
+      213: 6115097305014373772
+    second: _sprt_Engrenagem_22
+  - first:
+      213: 4146468610831515719
+    second: _sprt_Engrenagem_23
+  - first:
+      213: 641889139599315404
+    second: _sprt_Engrenagem_24
+  - first:
+      213: 4063068674536178341
+    second: _sprt_Engrenagem_25
+  - first:
+      213: -8169707918645918362
+    second: _sprt_Engrenagem_26
+  - first:
+      213: 594510161791471756
+    second: _sprt_Engrenagem_27
+  - first:
+      213: -4187143861458428590
+    second: _sprt_Engrenagem_28
+  - first:
+      213: -7302819158299722348
+    second: _sprt_Engrenagem_29
+  - first:
+      213: -2827088483198505247
+    second: _sprt_Engrenagem_30
+  - first:
+      213: -3570601676551170605
+    second: _sprt_Engrenagem_31
+  - first:
+      213: -7965922166327559102
+    second: _sprt_Engrenagem_32
+  - first:
+      213: -818408327967783040
+    second: _sprt_Engrenagem_33
+  - first:
+      213: 8239033229869102027
+    second: _sprt_Engrenagem_34
+  - first:
+      213: -4640388236898136146
+    second: _sprt_Engrenagem_35
+  - first:
+      213: 4505219557103686166
+    second: _sprt_Engrenagem_36
+  - first:
+      213: 5396210894008074568
+    second: _sprt_Engrenagem_37
+  - first:
+      213: -7461589005766470890
+    second: _sprt_Engrenagem_38
+  - first:
+      213: -9066383684350137513
+    second: _sprt_Engrenagem_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed93fba4efeab780800000000000000
+      internalID: -8666350767504646679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2604
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb44f742ed12b90800000000000000
+      internalID: -7268284075263869795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2604
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e41cca1343dfd10800000000000000
+      internalID: 2160940784164097609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_3
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2604
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913e19933ccee650800000000000000
+      internalID: 6264168653703229855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_4
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 2604
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00331234adf4170800000000000000
+      internalID: 8164984631300653277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c618c4cee31430800000000000000
+      internalID: 3752605443467691785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2232
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4dafd6af9906bc0800000000000000
+      internalID: -3791861585379928873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_7
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2232
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad17a3c4b7513fb0800000000000000
+      internalID: -4669854904718254679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_8
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2232
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a86248eadc9a80800000000000000
+      internalID: -8458645309027212066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_9
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 2232
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c248c24701f2680800000000000000
+      internalID: -8777779057572697032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fecd5ed8ed79880800000000000000
+      internalID: -8604163862039826577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1860
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae3eb00df7d6b850800000000000000
+      internalID: 6392534202738163371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1860
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766b993afe625d330800000000000000
+      internalID: 3734934276657493607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_13
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1860
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8375e333749287e0800000000000000
+      internalID: -1764684881462987889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_14
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1860
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638bb00af378dfad0800000000000000
+      internalID: -2666826696995653578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8e321287b796b0800000000000000
+      internalID: -5289557468043637969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1488
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206cb9f61d6e2ad50800000000000000
+      internalID: 6747208978949457410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_17
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1488
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665ffae451d01850800000000000000
+      internalID: 6345802037615089251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_18
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1488
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46739ba59f94cac30800000000000000
+      internalID: 4371950673587681124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_19
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1488
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e116ca8d7096fa30800000000000000
+      internalID: 4248742167344189922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c115f187ef0f34b0800000000000000
+      internalID: -5458626736357568060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1116
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede556f29503eeb20800000000000000
+      internalID: 3165520747693432542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_22
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1116
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d845889903dd450800000000000000
+      internalID: 6115097305014373772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_23
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1116
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408bec8b373b8930800000000000000
+      internalID: 4146468610831515719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_24
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1116
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19ff685c278e800800000000000000
+      internalID: 641889139599315404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a20fb3be6be26830800000000000000
+      internalID: 4063068674536178341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 744
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650a66deed5f9e80800000000000000
+      internalID: -8169707918645918362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 744
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d0f0a7df104800800000000000000
+      internalID: 594510161791471756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_28
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 744
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d105aa7d644e5c0800000000000000
+      internalID: -4187143861458428590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_29
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 744
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db0a2eaac27aa90800000000000000
+      internalID: -7302819158299722348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeea5ac00a24c8d0800000000000000
+      internalID: -2827088483198505247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 372
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d0ca61bca27ec0800000000000000
+      internalID: -3570601676551170605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_32
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 372
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb2a7befb537190800000000000000
+      internalID: -7965922166327559102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_33
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 372
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087424a36fd64a4f0800000000000000
+      internalID: -818408327967783040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_34
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 372
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3bcfef11de65270800000000000000
+      internalID: 8239033229869102027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf09cffb770a9fb0800000000000000
+      internalID: -4640388236898136146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612de484151c58e30800000000000000
+      internalID: 4505219557103686166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_37
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841c17eb73133ea40800000000000000
+      internalID: 5396210894008074568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_38
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613545b155c137890800000000000000
+      internalID: -7461589005766470890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_Engrenagem_39
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 484
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba9e8231cbd2280800000000000000
+      internalID: -9066383684350137513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
