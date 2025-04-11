@@ -3,7 +3,7 @@ Prosa Humana is a legacy project created by the former members of the extinguish
 
 <h2> Goals </h2>
 <p>
-  The main goal during this project was to create a game based on one of many stories created by Philip K. Dick. We chose Second Variety. The idea was to create a game were the user had to fight a series of different enemies and discover what was happening with his world.
+  The main goal during this project was to create a game based on one of many stories created by Philip K. Dick provided to us. We chose Second Variety. The idea was to create a game were the user had to fight a series of different enemies and discover what was happening with his world.
 </p>
 
 <h2> Achieved </h2>
